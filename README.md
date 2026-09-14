@@ -1,16 +1,42 @@
-## Hi there 👋
+<p align="center">
+  <img src="./.github/assets/banner.png" alt="Serial-V - banner" width="100%" />
+</p>
 
-<!--
-**SerialxxV/SerialxxV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+  <a href="https://realmbot.dev/">Realm Bot</a> |
+  <a href="https://realmhub.org/">Realm Hub</a> |
+  <a href="https://mcbe.news/">MCBE News</a>
+</h2>
 
-Here are some ideas to get you started:
+Hey! I'm Serial-V, a full-stack developer who spends most of my time building things around Minecraft: Bedrock Edition, Discord, and the infrastructure behind them. I primarily work with TypeScript and Node.js, ranging from low-level protocol implementations to backend services and web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my work revolves around:
+
+- [Realm Bot](https://realmbot.dev/), a Minecraft: Bedrock Edition Discord bot built to provide management, moderation, automation, and other tooling for Realms.
+- [Realm Hub](https://realmhub.org/), a platform for discovering and sharing Minecraft: Bedrock Edition Realms and servers.
+- [MCBE News](https://mcbe.news/), a site focused on news, updates, and information surrounding Minecraft: Bedrock Edition.
+
+Most of my projects may be found here or under the [Realm Bot](https://github.com/Realm-Bot). Feel free to look around but there may not be any yet.
+
+If you need to contact me, you can by joining either [Realm Bot](https://discord.gg/realmbot) or [Realm Hub](https://discord.gg/realmhub).
+
+---
+
+### Languages
+
+<p align="center">
+  <a href="https://github.com/SerialxxV">
+    <img src="./profile/stats.svg" alt="Serial-V GitHub Stats" />
+  </a>
+  <a href="https://github.com/SerialxxV">
+    <img src="./profile/top-langs.svg" alt="Serial-V Top Languages" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>
+    Yesterday mourns you. Tomorrow awaits you. I remain.
+  </sub>
+</p>
