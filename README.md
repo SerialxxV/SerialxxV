@@ -22,19 +22,6 @@ If you need to contact me, you can by joining either [Realm Bot](https://discord
 
 ---
 
-### Languages
-
-<p align="center">
-  <a href="https://github.com/SerialxxV">
-    <img src="./profile/stats.svg" alt="Serial-V GitHub Stats" />
-  </a>
-  <a href="https://github.com/SerialxxV">
-    <img src="./profile/top-langs.svg" alt="Serial-V Top Languages" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <sub>
     Yesterday mourns you. Tomorrow awaits you. I remain.
